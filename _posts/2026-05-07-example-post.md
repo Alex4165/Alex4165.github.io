@@ -51,7 +51,7 @@ A small table:
 ## Math
 
 Inline math uses backslash-paren: \\( e^{i\pi} + 1 = 0 \\).
-
+Does \(e=mc^2\) not work?
 Display math uses double dollars or backslash-brackets:
 
 $$

@@ -5,15 +5,17 @@ title: About
 
 # About
 
-Hi, I'm Alexander. *(Replace this with your own bio — a paragraph or two about who you are, what you're working on, and what you find interesting.)*
+Hi there, welcome to my recently christened personal page. 
 
-## Interests
+I am currently finishing my master's at the University of Bordeaux in France as 
+part of the ALGANT program. 
+I enjoy meeting new people, learning about their lives and interests.
+I would say I'm widely interested, but I always find myself coming back to something
+technical, usually math-related.
 
-- First thing you care about
-- Second thing
-- Third thing
+---
 
-## Elsewhere
+### Links
 
-- [GitHub](https://github.com/Alex4165)
-- [Email](mailto:your.email@example.com)
+- Hosted on [GitHub](https://github.com/Alex4165)
+- My [LinkedIn](www.linkedin.com/in/alexander-van-solingen-458047273)
