@@ -1,0 +1,27 @@
+title: Alexander
+description: Personal site and writing.
+url: "https://alex4165.github.io"
+
+permalink: /posts/:title/
+
+markdown: kramdown
+kramdown:
+  math_engine:           # disabled — KaTeX renders client-side
+  syntax_highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
